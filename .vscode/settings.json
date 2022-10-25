@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.scss": "code-runner-output",
+        "*.env": "env",
+        "string.h": "c"
+    }
+}
