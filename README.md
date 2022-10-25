@@ -22,15 +22,9 @@ You will require the GNU Compiler Collection (GCC) in order to be able to run th
  -  If it has been executed successfully, a "File copied successfully" message will be displayed
 
 ## Screenshots
-- Before running the program 
+- running the program
 
-![App Screenshot]()
-
-- After running the program
-
-![App Screenshot]()
-
----
+![App Screenshot](https://github.com/khushi201me127/cs252-assignments/blob/master/screenshots/pic1.PNG)
 
 ### Command to create a log file in which the system calls are logged
 - `strace -ostrace_log ./answer.o`
@@ -42,7 +36,8 @@ You will require the GNU Compiler Collection (GCC) in order to be able to run th
 
 [View the strace_log file](https://github.com/khushi201me127/cs252-assignments/blob/master/strace_log)
 
-![App Screenshot]()
+![App Screenshot](https://github.com/khushi201me127/cs252-assignments/blob/master/screenshots/pic2.PNG)
+![App Screenshot](https://github.com/khushi201me127/cs252-assignments/blob/master/screenshots/pic3.PNG)
 
 
 ---
